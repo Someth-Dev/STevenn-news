@@ -5,8 +5,8 @@
 }
 
 :root {
-    --primary-color: #f12727; /* Vibrant red, kept as is */
-    --primary-dark: #d91a1a; /* Slightly darker red, consistent hue */
+    --primary-color: #f12727;
+    --primary-dark: #d91a1a; 
     --primary-darker: #b21212; /* Darkest red, symmetrical progression */
     --accent-color: #2a9d8f; /* Teal, complementary to red for balance */
     --accent-dark: #1f776d; /* Darker teal, matching primary progression */
